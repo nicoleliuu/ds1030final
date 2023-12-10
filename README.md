@@ -5,4 +5,4 @@ I try XGBoost, Lasso Regression, Elastic Net Regression, and Random Forest, and 
 If it takes too long to run the models, try adjust the max_iteration for the imputer 
 
 # python and package versions:
-please refer to envrionment.yml.
+This project uses python3.11.4. For package versions and more, please refer to envrionment.yml.
