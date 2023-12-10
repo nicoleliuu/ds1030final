@@ -1,5 +1,5 @@
 # ds1030final
-This is a project used to predict melborune's house sale price based on several features.
+This is a project used to predict melborune's house sale price based on several features. Go to report folder for a detailed description of the project.
 Run the melb_data.csv file, under the data folder for access to data.
 Codes in src folder. I try XGBoost, Lasso Regression, Elastic Net Regression, and Random Forest, and XGBoost has the best performance. 
 More detailed pinrt out could be found in results folder.
